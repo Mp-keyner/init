@@ -1,0 +1,24 @@
+/* body {
+  padding: 4pc 10pc 1pc 10pc;
+  background: #282f30;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/fondo-transparente-de-herramientas-ilustraci%C3%B3n-vectorial-reparaci%C3%B3n-construcci%C3%B3n-vector-la-189580761.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Open Sans", sans-serif;
+  color: #000000;
+  margin: 0;
+}
